@@ -15,7 +15,7 @@ Hackintosh EFI for ASRock B365M-ITX/ac
 |GPU    | RX6600XT  | 
 |SSD    |   Crucial MX500 500GB       |
 |Ethernet    | Intel I219-V  | 
-|Wifi   | ??? Dual Band 802.11ac WiFi  | 
+|Wifi   | Dual Band 802.11ac WiFi AC 3168 | 
 |Audio codec   | ALC887  | 
 
 
@@ -28,6 +28,7 @@ Hackintosh EFI for ASRock B365M-ITX/ac
 - [x] iGPU hardware acceleration
 - [x] Ethernet
 - [x] Sleep/Wake
+- [x] USB Mapping
 - [x] CPU temperature monitoring
 - [x] System fan speed monitoring
 - [x] GPU temperature monitoring
@@ -47,7 +48,6 @@ Hackintosh EFI for ASRock B365M-ITX/ac
 
 
 - [ ] Audio
-- [ ] USB Mapping
 - [ ] iMessage, FaceTime, App Store, iTunes Store
 - [ ] CPU power management
 - [ ] NVMe drives - should be fine with nvme fix kext
