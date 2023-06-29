@@ -29,6 +29,7 @@ Hackintosh EFI for ASRock B365M-ITX/ac
 - [x] Ethernet
 - [x] Sleep/Wake
 - [x] USB Mapping
+- [x] Audio
 - [x] CPU temperature monitoring
 - [x] System fan speed monitoring
 - [x] GPU temperature monitoring
@@ -47,7 +48,6 @@ Hackintosh EFI for ASRock B365M-ITX/ac
 <summary><strong>Untested ❔</strong></summary>
 
 
-- [ ] Audio
 - [ ] iMessage, FaceTime, App Store, iTunes Store
 - [ ] CPU power management
 - [ ] NVMe drives - should be fine with nvme fix kext
