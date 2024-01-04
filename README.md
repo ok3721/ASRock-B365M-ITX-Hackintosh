@@ -1,3 +1,4 @@
+## No longer maintained because my B365M motherboard is broken
 # ASRock-B365M-ITX-Hackintosh
 Hackintosh EFI for ASRock B365M-ITX/ac
 ## Software
